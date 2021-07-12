@@ -1,15 +1,15 @@
 # react-ethereum-social-media-app
 
-a social media application built using
+#### a social media application built using
 
-clients: next.js,
-backend: ethereum
+- clients: next.js<br>
+- backend: ethereum<br>
 
-features of the application include:
+#### features of the application include:
 
-user profile with a description and a photo
-users following each other
-suggestions for who to follow
-ability to post messages with photos
-news feed with posts from followed users
-commenting, liking and listiing posts
+user profile with a description and a photo <br>
+users following each other <br>
+suggestions for who to follow <br>
+ability to post messages with photos <br>
+news feed with posts from followed users <br>
+commenting, liking and listiing posts <br>
