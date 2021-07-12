@@ -1,4 +1,4 @@
-# react-node-postgres-social-media-app
+# 📦 react-node-postgres-social-media-app
 ### a social media application built using <br>
 - client: react.js, <br>
 - server: nodejs, <br>
