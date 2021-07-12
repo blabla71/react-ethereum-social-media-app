@@ -1,4 +1,4 @@
-# 📦 react-node-postgres-social-media-app
+# 📦 react-ethereum-social-media-app
 ### a social media application built using <br>
 - client: react.js, <br>
 - backend: ethereum
